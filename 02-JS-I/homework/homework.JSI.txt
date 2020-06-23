@@ -1,0 +1,8 @@
+Homework JS I
+Definir:
+    * Variables: Es un lugar donde se declara una información, para ser utilizada mas tarde. Esta variable puede ser reescrita con nueva informacion.
+    * STRING: Es un tipo de dato. Es una cadena de caracteres que se coloca siempre entre comillas. Cualquier dato que coloquemos entre comillas (simples o dobles) es un string
+    * Funciones: las funciones sirven para agrupar códigos que voy a utilizar varias veces, solo con el nombre me va a ejecutar lo que haya armado en la función. Se compone de
+        -function, es lo que indica que es una funcion. Seguido por el nombre con el que denominaremos la función. Apertura y cierre de parentesís, donde colocaremos los argumentos (pueden ser variables o datos)  y una apertura y cierre de corchetes donde indicaremos la funcion a realizar.
+	* Declaraciones `if`: Es una expresion o statement que se utiliza como un flujo de control, nos indica que 'si' se esta dando determinada condicion o la condicion es verdadera, se ejecuta cierto codigo.
+	* Valores booleanos: sirven para comparar y devuelven valores true or false.
