@@ -1,0 +1,9 @@
+Definir:
+* `for`: Es un boucle que nos sirve para que una expresion se realice varias veces, hasta que se cumpla una condicion que definimos. Esta compuesta por ciertas condiciones que indico entre parentesis :
+Un argumento (puede ser una variable)
+Un bloque de frenado, es decir la condicion que se tiene que dar para que se frene, 
+de que manera se va incrementando.
+Seguido por un bloque de codigo a ejecutar entre corchetes.
+* `&&`:Significa "Y" es un operador logico, que permite evaluar condiciones para que me devuelva un dato booleano, en caso de que una sea incorrecta devolvera "false", si ambas son verdaera devuelve "true"
+*`||`: Es un operador Logico que permite evaluar condiciones para que me devuelva un dato booleano. Siginifica "o". En caso que una de las condiciones planteadas sea correcta, devolvera "true, si ambas son incorrectas devuelve "false"
+* `!`: Es un operador de comparacion y de logica, Con este signo indicamos que estamos preguntando lo opuesto de la expresión. tambien lo podemos utilizar para que nos devuelva lo opuesto al resultado de la expresion.
