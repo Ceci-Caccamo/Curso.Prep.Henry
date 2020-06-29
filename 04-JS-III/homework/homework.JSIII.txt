@@ -1,0 +1,3 @@
+un array es una lista de elementos: pueden estar compuestas por numeros, string, formulas, booleanos, funciones, otros array.
+Se representan con los braket [].
+se enumeran las posiciones iniciando desde el numero 0, es decir, que la primer ubicacion de un array esta en el numero 0, incrementando de 1 en 1.
